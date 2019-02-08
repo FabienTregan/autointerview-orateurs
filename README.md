@@ -46,6 +46,10 @@ Mets ici ton nom, ton prenom, un pseudo, un handle twitter... éventuellement un
 
 ## Comment je choisis à quelle conf je propose un talk ?
 
+## Comment je choisis de quoi je vais parler ?
+
+## C'est quoi, pour moi, un bon sujet ?
+
 ## Qu'est-ce que j'ai découvert qui m'a étonné en commençant à parler ?
 
 ## Une histoire que j'aurais envie de raconter sur une des fois où j'ai parlé ?
