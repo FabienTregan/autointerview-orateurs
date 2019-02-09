@@ -2,7 +2,7 @@
 name: "[FR] - répondre à l'autointerview orateurs"
 about: Répondre à l'auto-interview en français.
 title: "[FR] - `nom / pseudo`"
-labels: ''
+labels: answer, french
 assignees: ''
 
 ---
