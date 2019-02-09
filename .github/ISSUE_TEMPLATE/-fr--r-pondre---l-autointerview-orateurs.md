@@ -1,7 +1,7 @@
 ---
 name: "[FR] Répondre à l'autointerview orateurs"
 about: Répondre à l'auto-interview en français.
-title: "[FR] - `nom / pseudo`"
+title: "`mets ici ton nom ou pseudonyme`"
 labels: answer, french
 assignees: ''
 
@@ -9,9 +9,7 @@ assignees: ''
 
 # Qui suis-je ?
 
-```
-Mets ici ton nom, ton prenom, un pseudo, un handle twitter... éventuellement une phrase pour ceux qui ne te connaissent pas, en évitant le personal-branding :)
-```
+`Mets ici un nom ou un pseudonyme, eventuellement quelques informations pour que le lecteur puisse interpreter tes réponses.`
 
 # Qu'est-ce qui m'a donné envie de parler la première fois ?
 
