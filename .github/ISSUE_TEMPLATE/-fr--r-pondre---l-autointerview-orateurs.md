@@ -9,7 +9,7 @@ assignees: ''
 
 # Qui suis-je ?
 
-`Mets ici un nom ou un pseudonyme, eventuellement quelques informations pour que le lecteur puisse interpreter tes réponses.`
+`Mets ici un nom ou un pseudonyme, éventuellement quelques informations pour que le lecteur puisse interpréter tes réponses.`
 
 # Qu'est-ce qui m'a donné envie de parler la première fois ?
 
@@ -19,7 +19,7 @@ assignees: ''
 
 # Qu'est-ce (qui est-ce) qui m'a aidé ?
 
-# Qu'est-ce que ca m'apporte de parler en public ?
+# Qu'est-ce que ça m'apporte de parler en public ?
 
 # Qu'est-ce qui m'a fait ou donné envie d'arrêter ? 
 
