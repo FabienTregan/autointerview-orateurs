@@ -70,6 +70,10 @@ I am completely in favor of conferences designed with with contradictory opinion
 Of course you understand that I do not think that the questions time has the proper design for this.
 
 
+### The weird "no one ?" moment ?
+
+Some talks might be very good but may not rise questions : maybe they were clear enough, maybe they rise questions that the attendee will need to dig by himself / herself... this creates an akward situation when the speaker expect questions that won't come, sometimes ending a good talk badly.
+
 ## Then what ?
 
 
